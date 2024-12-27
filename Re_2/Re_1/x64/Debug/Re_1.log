@@ -1,0 +1,3 @@
+﻿  소스.cpp
+D:\Code\VisualStudio\Re_2\Re_1\소스.cpp(40,10): warning C4101: 'animalsound' :참조되지 않은 지역 변수입니다.
+  Re_1.vcxproj -> D:\Code\VisualStudio\Re_2\x64\Debug\Re_1.exe
